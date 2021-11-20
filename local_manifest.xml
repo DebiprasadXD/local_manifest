@@ -4,7 +4,7 @@
       <remote name="DebiprasadXD"
           fetch="https://github.com/DebiprasadXD" />
 
-  <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-1" remote="DebiprasadXD" revision="eleven" />
+  <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-1" remote="DebiprasadXD" revision="aex-11" />
   <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="DebiprasadXD" revision="11" />
   <project path="kernel/xiaomi/lavender" name="nexus_kernel_xiaomi_lavender" remote="DebiprasadXD" revision="eas-main" />
   
